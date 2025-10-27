@@ -2,7 +2,7 @@ manifestVersion: 1
 id: sparkles-hello-world
 name: Hello World
 tagline: Replace this tagline with your app's tagline
-icon: https://github.com/getumbrel/umbrel-apps-gallery/blob/master/bitcoin/icon.svg
+icon: https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/bitcoin/icon.svg
 category: Development
 version: "1.0.0"
 port: 4000
@@ -19,9 +19,9 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://github.com/getumbrel/umbrel-apps-gallery/blob/master/bitcoin/1.jpg
-  - https://github.com/getumbrel/umbrel-apps-gallery/blob/master/bitcoin/2.jpg
-  - https://github.com/getumbrel/umbrel-apps-gallery/blob/master/bitcoin/3.jpg
+  - https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/bitcoin/1.jpg
+  - https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/bitcoin/2.jpg
+  - https://raw.githubusercontent.com/getumbrel/umbrel-apps-gallery/master/bitcoin/3.jpg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
